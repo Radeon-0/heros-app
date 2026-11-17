@@ -19,10 +19,16 @@
       "element": "earth"
     },
     {
-      "id": "38d510b5-a731-46eb-9e39-1c87c10d887f",
-      "name": "КС",
-      "description": "1",
+      "id": "dd45e823-2dec-4904-b369-d5db4abd271a",
+      "name": "test",
+      "description": "т",
       "element": "wind"
+    },
+    {
+      "id": "8b8b9306-8630-41ce-a628-55b7c2b4c79e",
+      "name": "Водяной",
+      "description": "Летать на корабле",
+      "element": "water"
     }
   ],
   "filters": [
