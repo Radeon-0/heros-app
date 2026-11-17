@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": "813611d4-a34c-49cd-b54a-3a359f962bc8",
+      "name": "Ван пачмен",
+      "description": "Сильный",
+      "element": "fire"
+    },
+    {
+      "id": "d0809858-5491-40b4-86f2-a35f8e8f9b84",
+      "name": "железный",
+      "description": "летать ",
+      "element": "wind"
+    },
+    {
+      "id": "4eeef31b-f5ba-4afb-ab89-be64451beee8",
+      "name": "Земленной",
+      "description": "земля",
+      "element": "earth"
+    },
+    {
+      "id": "38d510b5-a731-46eb-9e39-1c87c10d887f",
+      "name": "КС",
+      "description": "1",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
