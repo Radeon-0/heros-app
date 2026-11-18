@@ -7,22 +7,10 @@
       "element": "fire"
     },
     {
-      "id": "d0809858-5491-40b4-86f2-a35f8e8f9b84",
-      "name": "железный",
-      "description": "летать ",
-      "element": "wind"
-    },
-    {
       "id": "4eeef31b-f5ba-4afb-ab89-be64451beee8",
       "name": "Земленной",
       "description": "земля",
       "element": "earth"
-    },
-    {
-      "id": "dd45e823-2dec-4904-b369-d5db4abd271a",
-      "name": "test",
-      "description": "т",
-      "element": "wind"
     },
     {
       "id": "8b8b9306-8630-41ce-a628-55b7c2b4c79e",
