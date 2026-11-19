@@ -17,6 +17,12 @@
       "name": "Водяной",
       "description": "Летать на корабле",
       "element": "water"
+    },
+    {
+      "id": "358b4e14-d71a-41c9-a648-a1570311d498",
+      "name": "hero",
+      "description": "gero",
+      "element": "water"
     }
   ],
   "filters": [
